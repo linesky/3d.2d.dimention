@@ -1,2 +1,4 @@
-# Hard.ascal.boot
-Ascal boot disk build
+# 3d.2d.dimentions
+
+
+cubic and squre calculations
