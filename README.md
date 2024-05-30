@@ -1,4 +1,10 @@
-# 3d.2d.dimentions
+# isolinux.cd.buid
 
+cd buider isolinux 
 
-cubic and squre calculations
+boot 
+
+tested
+
+vmlinuz and image.gz from puppy
+
